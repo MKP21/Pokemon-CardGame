@@ -1,14 +1,12 @@
-# React Pokédex [![Travis][build-badge]][build-status] [![CodeClimate][codeclimate-badge]][codeclimate-status] [![Requirements][requirements-badge]][requirements-status]
+# React Pokémon Cardgame
 
-**React Pokédex** is a project made with learning purposes.
-
-[Demo](https://pokedex.magarcia.now.sh)
+**React Pokémon Cardgame** is a mini project made for learning purposes.
 
 ## Getting started
 
 ```sh
-git clone git@github.com:magarcia/react-pokedex.git
-cd react-pokedex
+git clone https://github.com/MKP21/Pokemon-CardGame.git
+cd pokemon-cardgame
 npm install
 npm start # open localhost:3000
 ```
